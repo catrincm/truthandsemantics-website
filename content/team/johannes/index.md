@@ -11,7 +11,6 @@ date: 2020-01-05
 
 role: Principal Investigator
 
-homepage: "https://johannesstern.netlify.com"
+homepage: "https://johannesstern.github.io"
 
 ---
-I work on stuff
