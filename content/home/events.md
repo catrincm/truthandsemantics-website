@@ -1,21 +1,21 @@
 +++
-# A Recent Publications section created with the Pages widget.
-# This section displays recent blog posts from `content/publication/`.
+# A Recent and Upcoming events section created with the Pages widget.
+# This section displays recent talks from `content/event/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 40  # Order that this section will appear.
 
-title = "Recent Publications"
+title = "Events"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication"
+  page_type = "event"
 
   # Choose how much pages you would like to display (0 = all pages)
-  count = 3
+  count = 8
 
   # Choose how many pages you would like to offset by
   offset = 0
@@ -29,6 +29,8 @@ subtitle = ""
     category = ""
     publication_type = ""
     exclude_featured = false
+    exclude_past = false
+    exclude_future = false
 
 [design]
   # Toggle between the various page layout types.
@@ -36,5 +38,5 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 3
+  view = 2
 +++
