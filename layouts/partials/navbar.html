@@ -12,13 +12,16 @@
   <div class="container">
 
     {{if $show_logo}}
+      {{- if $has_logo -}}
+        <div class="d-none d-lg-inline-flex">
+          <a class="navbar-brand" href="{{ "https://erc.europa.eu/" | relLangURL }}">
+              <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}">
+          </a>
+        </div>
+      {{- end -}}
     <div class="d-none d-lg-inline-flex">
       <a class="navbar-brand" href="{{ "/" | relLangURL }}">
-        {{- if $has_logo -}}
-          <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}">
-        {{- else -}}
           {{- site.Title -}}
-        {{- end -}}
       </a>
     </div>
     {{end}}
@@ -30,14 +33,11 @@
     </button>
     {{ end }}
 
+    <!-- TODO (CCM): display logo in mobile view too!!! -->
     {{if $show_logo}}
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
       <a class="navbar-brand" href="{{ "/" | relLangURL }}">
-      {{- if $has_logo -}}
-        <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}">
-      {{- else -}}
         {{- site.Title -}}
-      {{- end -}}
       </a>
     </div>
     {{end}}
