@@ -1,4 +1,4 @@
-The repository for https://truthandsemantics.netlify.com. The website for the Truth and Semantics ERC starting grant. 
+The repository for https://truthandsemantics.netlify.com, the website for the Truth and Semantics ERC starting grant. 
 
 Created with [academic for hugo](https://sourcethemes.com/academic/)
 
