@@ -7,6 +7,7 @@ homepage: "http://www.bristol.ac.uk/school-of-arts/people/theodor-nenu/overview.
 
 role: PhD student
 
----
+summary: "I studied Philosophy and Computer Science at the University of Oxford.
+"
 
-I studied Philosophy and Computer Science at the University of Oxford.
+---
