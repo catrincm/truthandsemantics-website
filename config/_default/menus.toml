@@ -36,5 +36,5 @@
 [[main_right]]
   name = "<img src=\"/img/logo.png\" style=\"height:50px\" alt=\"ERC\">"
   post = ""
-  url = "https://erc.europa.eu/"
+  url = "#funding"
   weight = 30

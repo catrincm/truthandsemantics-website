@@ -12,6 +12,6 @@ title = "Funding"
 subtitle = "Details about the project funding"
 
 +++
-The project is based at the University of Bristol and funded by an [European Research Council Starting Grant](https://erc.europa.eu/funding/starting-grants) (TRUST 803684).
+The project is based at the [Department of Philosophy](http://www.bristol.ac.uk/philosophy/) at the [University of Bristol](https://www.bristol.ac.uk/) and funded by an [European Research Council](https://erc.europa.eu/) [Starting Grant](https://erc.europa.eu/funding/starting-grants) ([TRUST 803684](https://cordis.europa.eu/project/rcn/218044/factsheet/en)).
 
 It started in October 2018 and will run for a total of five years. The project comes with two postdoc and two PhD-positions.
