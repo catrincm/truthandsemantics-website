@@ -7,6 +7,6 @@ role: PhD student
 
 summary: "I did my Masters at the University of Florence."
 
-#homepage: ""
+homepage: ""
 
 ---
