@@ -1,7 +1,6 @@
 +++
-# A Featured Publications section created with the Featured Content widget.
-# This section displays publications from `content/publication/` which have
-# `featured = true` in their front matter.
+# A Recent and Upcoming Talks section created with the Pages widget.
+# This section displays recent talks from `content/talk/`.
 
 widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -33,11 +32,8 @@ subtitle = ""
 
 [design]
   # Toggle between the various page layout types.
-  #   1 = List
   #   2 = Compact
   #   3 = Card
-  #   4 = Citation (publication only)
-  view = 3
-
+  view = 2
 
 +++
