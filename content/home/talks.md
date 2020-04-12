@@ -2,12 +2,12 @@
 # A Recent and Upcoming Talks section created with the Pages widget.
 # This section displays recent talks from `content/talk/`.
 
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Recent & Upcoming Talks"
+title = "Talks"
 subtitle = ""
 
 [content]
@@ -22,6 +22,9 @@ subtitle = ""
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
+
+  # Show a "See all pages" link underneath the featured content?
+    link_to_archive = true
 
   # Filter posts by a taxonomy term.
   [content.filters]
