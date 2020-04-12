@@ -28,8 +28,8 @@
 {{ if $item.Params.summary }}
   {{ $summary = $item.Params.summary | markdownify | emojify }}
 {{ else if .Params.abstract }}
-  {{ $summary = .Params.abstract | markdownify | emojify }}
-{{ else if $item.Truncated }}
+  {{ $summary = .Params.abstract | markdownify | emojify | truncate (site.Params.abstract_length | default 135) }}
+{{ else if $item.Summary }}
   {{ $summary = $item.Summary }}
 {{ end }}
 
@@ -42,7 +42,7 @@
 
     {{ with $summary }}
     <div class="article-style">
-      {{ . | truncate 135 }}
+      {{ . }}
     </div>
     {{ end }}
 

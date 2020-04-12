@@ -41,3 +41,10 @@
 #    name = "CV"
 #    url = "files/cv.pdf"
 #    weight = 70
+
+
+[[main_right]]
+  name = "<img src=\"/img/logo.png\" style=\"height:50px\" alt=\"ERC\">"
+  post = ""
+  url = "#funding"
+  weight = 30

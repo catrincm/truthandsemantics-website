@@ -1,6 +1,7 @@
 +++
 # A Recent Publications section created with the Pages widget.
 # This section displays recent blog posts from `content/publication/`.
+# You might want to use a featured publications section instead. See example site under "themes/academic"
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -28,6 +29,7 @@ subtitle = ""
     tag = ""
     category = ""
     publication_type = ""
+    author = ""
     exclude_featured = false
 
 [design]
