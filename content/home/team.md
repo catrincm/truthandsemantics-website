@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "People"
-subtitle = "Who's on the project"
+
 
 [content]
   # Page type to display. E.g. project.
