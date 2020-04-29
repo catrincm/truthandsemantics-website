@@ -11,7 +11,7 @@ role: Research Associate
 
 homepage: https://www.thomasschindler.org/
 
-summary: "Before starting in Bristol, I had a Marie-Curie project on 'The logical function of property talk'. I was also a main researcher on the DFG funded project 'Reference patterns of paradox'.
+summary: "Before moving to Bristol, I held positions in Amsterdam, Cambridge and Munich. I specialize in logic, metaphysics, the philosophy of language and the philosophy of mathematics, with a particular focus on deflationary theories of truth and abstract objects, and the semantic and logical paradoxes.
 "
 
 ---

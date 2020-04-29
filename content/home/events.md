@@ -42,4 +42,4 @@ subtitle = ""
   view = 2
 +++
 
-Together with [Foundational Studies Bristol Group](http://www.bristol.ac.uk/philosophy/research/foundational-studies/) we host a regular series of talks. See [FSB-calendar](http://www.bristol.ac.uk/philosophy/research/foundational-studies/events/) for more information.
+Together with [Foundational Studies Bristol Group](http://www.bristol.ac.uk/philosophy/research/foundational-studies/) we host a regular series of talks. See the [FSB-calendar](http://www.bristol.ac.uk/philosophy/research/foundational-studies/events/) for more information.
