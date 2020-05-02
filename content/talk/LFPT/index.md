@@ -11,8 +11,13 @@ location: Amsterdam
   #postcode: '94305'
   #country: United States
 
-summary: "Talk given at the Workshop 'Propositions, properties, sets and other abstract objects'"
-#abstract:
+summary: "We present a theory of propositional functions based on Russell's philosophical insights, which lead to the development of the theory of types, and Gödel's later suggested amendments of those."
+
+abstract: " According to Russell, the theory of types is based on two assumptions:
+(i) that every propositional function (concept, predicate) has a range of significance and
+(ii) that these ranges of significance are mutually exclusive.
+(i) and (ii) are logically independent of one another, and, according to Gödel, an attractive solution to the logical paradoxes (i.e. Russell’s paradox, as applied to propositional functions, concepts etc.) would be to adopt (i) but reject (ii). In this talk, a theory of propositional functions loosely based on these ideas of Russell and Gödel, RG, is presented, and a strategy to get a translation of Simple Type Theory into the theory RG is provided.
+"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
