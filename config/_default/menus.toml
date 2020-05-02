@@ -9,7 +9,7 @@
   weight = 10
 
   [[main]]
-  name = "Team"
+  name = "People"
   url = "#team"
   weight = 20
 
@@ -46,5 +46,5 @@
 [[main_right]]
   name = "<img src=\"/img/logo.png\" style=\"height:50px\" alt=\"ERC\">"
   post = ""
-  url = "#funding"
+  url = "https://cordis.europa.eu/project/id/803684"
   weight = 30
