@@ -3,10 +3,10 @@
 # This section displays recent blog posts from `content/publication/`.
 # You might want to use a featured publications section instead. See example site under "themes/academic"
 
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 45  # Order that this section will appear.
 
 title = "Recent Publications"
 subtitle = ""
@@ -23,6 +23,9 @@ subtitle = ""
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
+
+  # Show a "See all pages" link underneath the featured content?
+    link_to_archive = true
 
   # Filter posts by a taxonomy term.
   [content.filters]
