@@ -29,6 +29,8 @@ This workshop is hosted by the ERC-Starting Grant ['Truth and Semantics' (TRUST 
 ### Call for Contributions
 There are one or two slots for submitted contributions of 45-60min. If you are interested in giving a talk please send a paper or extended abstract of around 1000 words to [Johannes Stern](mailto:johannes.stern@bristol.ac.uk) no later than April 9.
 
+### Programme
+Tba. The workshop will start at 13h30 (GMT+1) and end by 21h (GMT+1).
 
 ### Registration
 Please contact [Johannes Stern](mailto:johannes.stern@bristol.ac.uk) if you would like to attend the workshop.
