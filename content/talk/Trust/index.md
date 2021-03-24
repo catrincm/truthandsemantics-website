@@ -22,7 +22,7 @@ authors: ["Johannes Stern"]
 #tags: []
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
