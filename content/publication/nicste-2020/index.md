@@ -2,7 +2,7 @@
 title: "Modes of Truth. The Unified Approach to Truth, Modality, and Paradox"
 authors: ["Carlo Nicolai and Johannes Stern"]
 
-date: 2021-04-01
+date: 2021-03-31
 
 
 
@@ -35,7 +35,7 @@ tags:
 
 featured: true
 
-url_pdf: "https://doi.org/10.4324/9780429030208"
+doi: "10.4324/9780429030208"
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
