@@ -2,7 +2,7 @@
 title: "Is deflationism compatible with compositional and Tarskian truth theories?"
 authors: ["Lavina Picollo and Thomas Schindler"]
 
-date: 2020-01-05
+date: 2020-03-28
 
 
 
@@ -22,7 +22,7 @@ date: 2020-01-05
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "to appear in _Modes of Truth. The Unified Approach to Modality, Truth, and Paradox_; Nicolai, C. and Stern, J. (eds.), Routledge."
+publication: "Chapter 3 in _Modes of Truth. The Unified Approach to Modality, Truth, and Paradox_; Nicolai, C. and Stern, J. (eds.), Routledge. Open Access Publication"
 
 abstract: "
 What requirements must deflationary formal theories of truth satisfy? This chapter argues against the widely accepted view that compositional and Tarskian theories of truth are substantial or otherwise unacceptable to deflationists.  First, two purposes that a formal truth theory can serve are distinguished: one descriptive, the other logical (i.e., to characterise the correctness of inferences involving `true'). The chapter argues that the most compelling arguments for the incompatibility of compositional and Tarskian theories concern descriptive theories only.
@@ -37,8 +37,8 @@ tags:
 -
 
 featured: true
+url_pdf: "https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9780429030208-3/deflationism-compatible-compositional-tarskian-truth-theories-lavinia-picollo-thomas-schindler?context=ubx&refId=114705ab-ca65-447a-9b31-a48cef0d49d6"
 
-url_preprint: picsch20.pdf
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

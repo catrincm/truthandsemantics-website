@@ -2,7 +2,7 @@
 title: "Deflationary Theories of Properties and Their Ontology"
 authors: ["Thomas Schindler"]
 
-date: 2021-03-24
+date: 2021-03-30
 
 
 
@@ -22,7 +22,7 @@ date: 2021-03-24
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Austalasian Journal of Philosophy"
+publication: "Austalasian Journal of Philosophy. Open Access Publication"
 
 abstract: "
 I critically examine some deflationary theories of properties, according to which properties are ‘shadows of predicates’ and quantification over them serves a mere quasi-logical function. I start by considering Hofweber’s internalist theory, and pose a problem for his account of inexpressible properties. I then introduce a theory of properties that closely resembles Horwich’s minimalist theory of truth. This theory overcomes the problem of inexpressible properties, but its formulation presupposes the existence of various kinds of abstract objects. I discuss some ways to reduce these existence assumptions, but ultimately suggest that deflationists can hardly avoid quantification over abstract objects of one sort or another. I conclude that property deflationism is perhaps not as deflationary as some philosophers want it to be, but that it’s still apt to call the position ‘deflationary’.
