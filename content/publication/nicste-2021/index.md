@@ -2,7 +2,7 @@
 title: "A Guide to the Unified Approach to Truth, Modality, and Paradox"
 authors: ["Carlo Nicolai and Johannes Stern"]
 
-date: 2020-01-05
+date: 2021-26-03
 
 
 
