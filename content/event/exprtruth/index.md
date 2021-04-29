@@ -37,8 +37,8 @@ All times are in GMT+1
 - **13h30-14h45** Catrin Campbell-Moore: Beliefs and a general supervaluational fixed-point account<br><br>
 **Abstract:** I offer a very general construction, related to the supervaluational Kripkean account for the liar paradox, which can immediately apply to a whole range of potentially self-referential, or self-dependent notions. It can, for example, help with cases where one's adopted beliefs can provide additional evidence that undermines their own rational adoption, finding indefinite attitudes that definitely satisfy any definite recommendations.
 
-- **15h00-16h00** Johannes Stern: Belief, Truth, and Ways of Believing<br><br>
-**Abstract:** The notions of belief and truth frequently interact in philosophical discourse but, surprisingly, a coherent semantics for such discourse is still wanting. Indeed, a number of puzzles stand in way of a satisfactory semantic account of the notion of truth in doxastic contexts. In this talk we discuss these puzzles and develop a more satisfactory semantic account that combines ideas from contextualist theories of attitude reports and Awareness semantics for non-idealized belief.
+- **15h00-16h00** Johannes Stern: Simple Conditionals in Fixed-point Semantics<br><br>
+**Abstract:** We investigate conditionals in Kripke-style theories of truth and propose attractive truth-conditions for a variably-strict conditional that lead to a monotone evaluation scheme. As a consequence, the Kripke jump associated with the evaluation scheme will have fixed points.
 
 - **16h15-17h30** Harty Field: Ordinary Conditionals and Naive Truth<br><br>
 **Abstract:** After distinguishing several kinds of conditionals, the talk will focus on ordinary indicative (epistemic) conditionals, and discuss the problem of how to generalize variably strict semantics to accommodate naive truth for them.  (I'll say a bit about the more general goal of getting naive truth in a framework where different kinds of conditionals can interact.  Independent of how we get naivety for the other kinds of conditionals in isolation, the general goal rules out the simplest options for the epistemic conditionals.)
