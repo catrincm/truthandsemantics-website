@@ -38,7 +38,8 @@ tags:
 
 featured: true
 
-url_pdf: https://www.tandfonline.com/doi/full/10.1080/00048402.2021.1887302
+doi: "10.1080/00048402.2021.1887302"
+url_pdf: sch-2021.pdf
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

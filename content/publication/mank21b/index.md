@@ -35,7 +35,9 @@ tags:
 
 featured: false
 
-url_pdf: https://link.springer.com/article/10.1007/s11229-021-03038-2
+doi: "10.1007/s11229-021-03038-2"
+url_pdf: mank21b.pdf
+
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

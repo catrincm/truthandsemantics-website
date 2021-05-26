@@ -34,8 +34,8 @@ tags:
 -
 
 featured: true
-
-url_pdf: https://link.springer.com/article/10.1007/s10670-020-00350-0
+doi: "10.1007/s10670-020-00350-0"
+url_pdf: manc21a.pdf
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
