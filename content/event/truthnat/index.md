@@ -32,8 +32,8 @@ We would like to invite the submission of abstracts for several further talks on
 Financial support covering travel and accommodation will be available.
 
 ### Key dates
-**Conference**: September 5th-6th<br>
-**Deadline for submissions**: May 22<br>
-**Notification of acceptance**: July 1st
+Conference: September 5th-6th<br>
+Deadline for submissions: May 22<br>
+Notification of acceptance: July 1st
 
 Anonymised abstracts and further questions should be sent to [Poppy Mankowitz](mailto:popy.mankowitz@bristol.ac.uk).
