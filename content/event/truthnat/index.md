@@ -31,7 +31,7 @@ We would like to invite the submission of abstracts for several further talks on
 
 Financial support covering travel and accommodation will be available.
 
-##Key dates
+## Key dates
 Conference: September 5th-6th
 Deadline for submissions: May 22
 Notification of acceptance: July 1st
