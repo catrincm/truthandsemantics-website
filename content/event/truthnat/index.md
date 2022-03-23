@@ -23,6 +23,7 @@ This workshop is hosted by the ERC-Starting Grant ['Truth and Semantics' (TRUST 
 - Dorit Bar-On (UCONN)
 - Paul Égré (CNRS and ENS)
 - Will Gamester (Leeds)
+- Max Kölbel (Wien)
 - Friederike Moltmann (CNRS and Nice)
 - Keith Simmons (UCONN)
 
