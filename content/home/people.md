@@ -10,7 +10,7 @@ title = "People"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "team"
+  page_type = "people"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
