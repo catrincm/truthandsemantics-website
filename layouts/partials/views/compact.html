@@ -14,6 +14,8 @@
   {{ $show_authors_only = true }}
 {{ else if eq $item.Type "project" }}
   {{ $show_authors_only = true }}
+{{ else if eq $item.Type "people" }}
+  {{ $show_authors_only = true }}
 {{ end }}
 
 {{ $has_attachments := partial "functions/has_attachments" $item }}
@@ -33,6 +35,10 @@
 
     <div class="section-subheading article-title mb-0 mt-0">
       <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
+    </div>
+
+    <div class="article-role">
+    {{ $item.Params.role }}
     </div>
 
     {{ with $summary }}
