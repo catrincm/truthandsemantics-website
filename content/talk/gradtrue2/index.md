@@ -1,7 +1,7 @@
 ---
 title: True Gradability
 
-event: Departemental Seminar
+event: Departmental Seminar
 
 
 location: University of Bristol
