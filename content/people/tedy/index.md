@@ -9,8 +9,8 @@ summary: " I read Computer Science and Philosophy at the University of Oxford. I
 
 links:
   - name: Homepage
-    url: 'http://www.bristol.ac.uk/school-of-arts/people/theodor-nenu/overview.html'
+    url: 'https://philpeople.org/profiles/theodor-nenu'
 
-external_link: "http://www.bristol.ac.uk/school-of-arts/people/theodor-nenu/overview.html"
+external_link: "https://philpeople.org/profiles/theodor-nenu"
 
 ---
