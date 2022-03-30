@@ -2,7 +2,7 @@
 # A Recent and Upcoming events section created with the Pages widget.
 # This section displays recent talks from `content/event/`.
 
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
@@ -15,7 +15,7 @@ subtitle = ""
   page_type = "event"
 
   # Choose how much pages you would like to display (0 = all pages)
-  count = 8
+  count = 0
 
   # Choose how many pages you would like to offset by
   offset = 0
@@ -32,6 +32,11 @@ subtitle = ""
     exclude_featured = false
     exclude_past = false
     exclude_future = false
+
+  [content.archive]
+      enable = true
+      text = "See all events"
+      link = "event/"
 
 [design]
   # Toggle between the various page layout types.
