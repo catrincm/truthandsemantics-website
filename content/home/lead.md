@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "Truth and Semantics"
-subtitle = "An ERC research project exploring a unified perspective on theories of truth and semantics."
+# title = "Truth and Semantics"
+# subtitle = "An ERC research project exploring a unified perspective on theories of truth and semantics."
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -49,4 +49,14 @@ subtitle = "An ERC research project exploring a unified perspective on theories 
  # CSS class.
  css_class = ""
 +++
-Based in the [Department of Philosophy at the University of Bristol](http://www.bristol.ac.uk/philosophy/).
+
+
+# Truth and Semantics
+
+<div style="font-size: 1.2rem;  margin-bottom: .5rem;">
+An ERC research project exploring a unified perspective on theories of truth and semantics.  
+</div>
+
+<div style=" margin-bottom: 1rem;">
+Based in the <a href="http://www.bristol.ac.uk/philosophy/">Department of Philosophy at the University of Bristol</a>.
+</div>
