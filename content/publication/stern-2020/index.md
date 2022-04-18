@@ -5,9 +5,7 @@ authors: ["Johannes Stern"]
 date: 2021-03-29
 
 
-
 # Publication type.
-# Legend:
 # 0 = Uncategorized;
 # 1 = Journal article;
 # 2 = Book;

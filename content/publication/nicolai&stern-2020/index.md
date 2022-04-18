@@ -9,7 +9,6 @@ date: 2020-01-02
 
 
 # Publication type.
-# Legend:
 # 0 = Uncategorized;
 # 1 = Journal article;
 # 2 = Book;

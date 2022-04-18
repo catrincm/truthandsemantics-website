@@ -5,9 +5,7 @@ authors: ["Lavina Picollo and Thomas Schindler"]
 date: 2020-03-28
 
 
-
 # Publication type.
-# Legend:
 # 0 = Uncategorized;
 # 1 = Journal article;
 # 2 = Book;

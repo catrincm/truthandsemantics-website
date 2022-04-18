@@ -7,7 +7,6 @@ date: 2021-26-03
 
 
 # Publication type.
-# Legend:
 # 0 = Uncategorized;
 # 1 = Journal article;
 # 2 = Book;

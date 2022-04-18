@@ -5,9 +5,7 @@ authors: ["Carlo Nicolai and Johannes Stern"]
 date: 2021-03-31
 
 
-
 # Publication type.
-# Legend:
 # 0 = Uncategorized;
 # 1 = Journal article;
 # 2 = Book;

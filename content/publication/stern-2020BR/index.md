@@ -5,9 +5,7 @@ authors: ["Johannes Stern"]
 date: 2020-01-01
 
 
-
 # Publication type.
-# Legend:
 # 0 = Uncategorized;
 # 1 = Journal article;
 # 2 = Book;
@@ -20,6 +18,7 @@ date: 2020-01-01
 # 9 = Other
 
 publication_types: ["5"]
+
 
 # Publication name and optional abbreviated publication name.
 publication: "Analysis"
