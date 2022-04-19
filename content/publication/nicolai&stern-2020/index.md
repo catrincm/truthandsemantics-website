@@ -34,7 +34,7 @@ summary: "We determine the modal logic of fixed-point models of truth and their 
 tags:
 -
 
-featured: true
+featured: false
 
 url_preprint: "https://arxiv.org/pdf/2004.07275.pdf"
 

@@ -34,7 +34,7 @@ summary: "This chapter argues against the widely accepted view that compositiona
 tags:
 -
 
-featured: true
+featured: false
 url_pdf: "https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9780429030208-3/deflationism-compatible-compositional-tarskian-truth-theories-lavinia-picollo-thomas-schindler?context=ubx&refId=114705ab-ca65-447a-9b31-a48cef0d49d6"
 
 
