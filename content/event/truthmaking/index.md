@@ -17,7 +17,7 @@ summary: "The conference has two principal aims: The first aim is to investigate
 ---
 
 
-This workshop is hosted by the ERC-Starting Grant ['Truth and Semantics' (TRUST 803684)](/) at the University of Bristol directed by Johannes Stern in collaboration with Dr. Johannes Korbmacher (University of Utrecht).
+This workshop is hosted by the ERC-Starting Grant ['Truth and Semantics' (TRUST 803684)](/) at the University of Bristol directed by Johannes Stern in collaboration with Johannes Korbmacher (University of Utrecht).
 
 ### Confirmed Speakers
 - Michael Glanzberg (Rutgers)
