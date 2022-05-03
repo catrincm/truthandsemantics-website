@@ -7,7 +7,7 @@ date_end: 2022-09-06
 all_day: true
 
 location: Bristol
-organizer: "[Poppy Mankowitz](mailto:popy.mankowitz@bristol.ac.uk)"
+organizer: "[Poppy Mankowitz](mailto:poppy.mankowitz@bristol.ac.uk)"
 
 summary: "The aim of the conference is to explore  the semantics and pragmatics of the word ‘true’ in natural language. Central topics of discussion will include whether or not ‘true’ is ambiguous, context sensitive, vague, gradable, presuppositional, or lacking content altogether. Other relevant topics will include what sort of property or concept ‘true’ expresses, connections between natural language ‘true’ and the semantic paradoxes, and syntactic properties of ‘true’."
 
@@ -28,7 +28,7 @@ This workshop is hosted by the ERC-Starting Grant ['Truth and Semantics' (TRUST 
 - Keith Simmons (UCONN)
 
 ### Call for Abstracts
-We would like to invite the submission of abstracts for several further talks on the conference’s themes. Talks might address the topics described above, but those related to broader aspects of the use or role of ‘true’ in natural language will also be welcome. Anonymised abstracts no longer than 2 pages should be submitted by May 22. Please send abstracts as pdf attachments to [Poppy Mankowitz](mailto:popy.mankowitz@bristol.ac.uk). Notification of acceptance will be sent out by June 15.
+We would like to invite the submission of abstracts for several further talks on the conference’s themes. Talks might address the topics described above, but those related to broader aspects of the use or role of ‘true’ in natural language will also be welcome. Anonymised abstracts no longer than 2 pages should be submitted by May 22. Please send abstracts as pdf attachments to [Poppy Mankowitz](mailto:poppy.mankowitz@bristol.ac.uk). Notification of acceptance will be sent out by June 15.
 
 Financial support covering travel and accommodation will be available.
 
@@ -37,4 +37,4 @@ Conference: September 5th-6th<br>
 Deadline for submissions: May 22<br>
 Notification of acceptance: June 15
 
-Anonymised abstracts and further questions should be sent to [Poppy Mankowitz](mailto:popy.mankowitz@bristol.ac.uk).
+Anonymised abstracts and further questions should be sent to [Poppy Mankowitz](mailto:poppy.mankowitz@bristol.ac.uk).
