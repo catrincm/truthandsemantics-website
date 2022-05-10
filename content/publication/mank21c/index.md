@@ -1,6 +1,6 @@
 ---
-title: "Focus Slurs"
-authors: ["Poppy Mankowitz and Ashley"]
+title: "Focus on Slurs"
+authors: ["Poppy Mankowitz and Ashley Shaw"]
 
 date: 2022-04-30
 
