@@ -32,7 +32,7 @@ subtitle = "Apply for a one-year postdoc"
 'Truth and Semantics' invites applications for a one-year Research Associate (postdoc).
 
 * AOS: Philosophy of Language and Formal Semantics, or Logic with good knowledge of formal theories of truth.
-AOC: Logic
+
 * Starting date: October 2022---a later starting date is not possible.
 * Closing date for applications: 11-Aug-2022
 
