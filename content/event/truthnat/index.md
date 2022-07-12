@@ -17,15 +17,18 @@ summary: "The aim of the conference is to explore  the semantics and pragmatics 
 ---
 
 
-This workshop is hosted by the ERC-Starting Grant ['Truth and Semantics' (TRUST 803684)](/) at the University of Bristol directed by Johannes Stern.
+The workshop is hosted by the ERC-Starting Grant ['Truth and Semantics' (TRUST 803684)](/) at the University of Bristol directed by Johannes Stern. It's aim is to explore  the semantics and pragmatics of the word ‘true’ in natural language. Central topics of discussion will include whether or not ‘true’ is ambiguous, context sensitive, vague, gradable, presuppositional, or lacking content altogether. Other relevant topics will include what sort of property or concept ‘true’ expresses, connections between natural language ‘true’ and the semantic paradoxes, and syntactic properties of ‘true’.
 
 ### Confirmed Speakers
 - Dorit Bar-On (UCONN)
 - Paul Égré (CNRS and ENS)
 - Will Gamester (Leeds)
 - Max Kölbel (Wien)
+- Ethan Landes (Zürich)
 - Friederike Moltmann (CNRS and Nice)
+- Bryan Pickel (Glasgow)
 - Keith Simmons (UCONN)
+- Caspar Wilson (KCL)
 
 ### Call for Abstracts
 We would like to invite the submission of abstracts for several further talks on the conference’s themes. Talks might address the topics described above, but those related to broader aspects of the use or role of ‘true’ in natural language will also be welcome. Anonymised abstracts no longer than 2 pages should be submitted by May 22. Please send abstracts as pdf attachments to [Poppy Mankowitz](mailto:poppy.mankowitz@bristol.ac.uk). Notification of acceptance will be sent out by June 15.
@@ -37,4 +40,4 @@ Conference: September 5th-6th<br>
 Deadline for submissions: May 22<br>
 Notification of acceptance: June 15
 
-Anonymised abstracts and further questions should be sent to [Poppy Mankowitz](mailto:poppy.mankowitz@bristol.ac.uk).
+Anonymised abstracts and all further questions should be sent to [Poppy Mankowitz](mailto:poppy.mankowitz@bristol.ac.uk).
