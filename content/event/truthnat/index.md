@@ -29,6 +29,7 @@ The workshop is hosted by the ERC-Starting Grant ['Truth and Semantics' (TRUST 8
 - Bryan Pickel (Glasgow)
 - Keith Simmons (UCONN)
 - Caspar Wilson (KCL)
+<br></br>
 
 ### Registration for online and in-person attendance
 Registration is now open until August 25th. To register, please send an email to Poppy Mankowitz (poppy.mankowitz@bristol.ac.uk) with the following information:
@@ -36,33 +37,35 @@ Registration is now open until August 25th. To register, please send an email to
 1. Your name.
 2. Whether you will attend in person or online.
 3. For in-person attendees: whether you want a catered lunch both days, and whether you have any dietary requirements.
-
+<br></br>
 
 
 ### Programme
 #### Day 1
 - 9.00: Conference opening and coffee.<br></br>
 
-- 9.30 - 10.45: Dorit Bar-On (University of Connecticut): Truth in Meaning.
+- 9.30 - 10.45: **Dorit Bar-On** (University of Connecticut): Truth in Meaning.
 
 - 10.45 - 11.15: Coffee.
 
-- 11.15 - 12.30: Bryan Pickel (University of Glasgow): title tbc.<br></br>
+- 11.15 - 12.30: **Bryan Pickel** (University of Glasgow): title tbc.<br></br>
 - 12.30 - 13.30: Lunch.<br></br>
-- 13.30 - 14.45: Paul Égré (Institut Jean Nicod/CNRS and École Normale Supérieure): title tbc.
+- 13.30 - 14.45: **Paul Égré** (Institut Jean Nicod/CNRS and École Normale Supérieure): title tbc.
 - 14.45 - 15.00: Break.
-- 15.00 - 16.15: Caspar Wilson (King's College London): Austin's Alethic Pluralism and a Pragmatic Function of ‘True’.
+- 15.00 - 16.15: **Caspar Wilson** (King's College London): Austin's Alethic Pluralism and a Pragmatic Function of ‘True’.
 - 16.15 - 16.45: Coffee.
-- 16.45 - 18.00: Max Kölbel (University of Vienna): title tbc.
+- 16.45 - 18.00: **Max Kölbel** (University of Vienna): title tbc.<br></br>
+
 #### Day 2
 - 9.15: Coffee.<br></br>
-- 9.30 - 10.45: Keith Simmons (University of Connecticut): ‘True’: Paradox and Context.
+- 9.30 - 10.45: **Keith Simmons** (University of Connecticut): ‘True’: Paradox and Context.
 - 10.45 - 11.15: Coffee.
-- 11.15 - 12.30: Ethan Landes (University of Zürich): How Does “True” Modify Dual Character Concepts?<br></br>
+- 11.15 - 12.30: **Ethan Landes** (University of Zürich): How Does “True” Modify Dual Character Concepts?<br></br>
 - 12.30 - 13.30: Lunch.<br></br>
-- 13.30 - 14.45: Will Gamester (University of Leeds): Alethic Expressivism.
+- 13.30 - 14.45: **Will Gamester** (University of Leeds): Alethic Expressivism.
 - 14.45 - 15.15: Coffee.
-- 15.15 - 16.30: Friederike Moltmann (Centre National de la Recherche Scientifique): title tbc.
+- 15.15 - 16.30: **Friederike Moltmann** (Centre National de la Recherche Scientifique): title tbc.
+<br></br>
 
 ### Abstracts:
 
