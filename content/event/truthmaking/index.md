@@ -6,7 +6,7 @@ date: 2022-08-22
 date_end: 2022-08-23
 all_day: true
 
-location: Bristol
+location: Hepple Lecture Theatre, University of Bristol
 organizer: "[Simone Picenni](mailto:simone.picenni@bristol.ac.uk)"
 
 summary: "The conference has two principal aims: The first aim is to investigate the role various forms of truthmaking semantics and semantical grounding can play in diagnosing the problematic nature of paradoxes (including, but not limited to, the semantic paradoxes and the paradoxes of vagueness), and the solutions to these paradoxes truthmaking semantics and semantical grounding ogive rise to. The second aim is to study the paradoxes of truthmaking and semantic grounding."
@@ -20,29 +20,50 @@ summary: "The conference has two principal aims: The first aim is to investigate
 This workshop is hosted by the ERC-Starting Grant ['Truth and Semantics' (TRUST 803684)](/) at the University of Bristol directed by Johannes Stern in collaboration with Johannes Korbmacher (University of Utrecht).
 
 ### Confirmed Speakers
+- Beatrice Buonaguidi (KCL)
 - Michael Glanzberg (Rutgers)
-- Martin Pleitz (Münster)
+- Johannes Korbmacher (Utrecht)
 - Simone Picenni (Bristol)
+- Martin Pleitz (Münster)
+- Lorenzo Rossi (Turin)
+- Bruno Whittle (Madison)
 - Steve Yablo (MIT)
 
-### Call for Abstracts
-We would like to invite the submission of abstracts for several further talks on the conference’s themes. For example, we invite contributions on the following themes (in so far as they are connected to the conference's aim):
-- Truthmaking semantics (exact, inexact)
-- Situation semantics
-- Semantic grounding
-- Semantic paradoxes
-- Subject matter, aboutness
-- Hyperintensional logics and semantics
+### Registration
+If you wish to attend the conference please send an email to [Simone Picenni](mailto:simone.picenni@bristol.ac.uk) with the following information:
 
- If you are interested in giving a talk, please send an abstract of no more than 2000 words as pdf attachment to [Simone Picenni and Johannes Korbmacher](mailto:simone.picenni@bristol.ac.uk,mailto:Johannes.korbmacher@uu.ne>) by June 1, 2022. Notification of acceptance will be sent out by end of June.
+1. Your name.
+2. Whether you want a catered lunch both days, and whether you have any dietary requirements.
+<br></br>
 
-Financial support covering travel and accommodation will be available.
+### Programme
 
-### Key dates
-Conference: August 22/23<br>
-Deadline for submissions: June 1<br>
-Notification of acceptance: End of June
+#### Day 1
+- 10:30: Conference opening<br></br>
 
-Anonymised abstracts should be sent to [Simone Picenni and Johannes Korbmacher](mailto:simone.picenni@bristol.ac.uk,mailto:Johannes.korbmacher@uu.ne>).
+- 11:00 - 12:15 **Martin Pleitz** (Münster): Make Truths, not Paradox<br></br>
+- 12:15 - 13:30: Lunch<br></br>
 
-For all further questions please contact [Simone Picenni](mailto:simone.picenni@bristol.ac.uk).
+- 13:30 - 14:45: **Lorenzo Rossi** (Turin): Trivalent conditionals: certain, uncertain, counterfactual
+- 14:45 - 15:00 Coffee
+- 15:00 - 16:15 **Bruno Whittle** (Madison): Ground of Truth
+- 16:15 - 16:30: Coffee
+- 16:30 - 17:45: **Steve Yablo** (MIT): Traps Set by Topics (online)
+
+#### Day 2
+- 10:00 - 11:15 **Beatrice Buonaguidi** (KCL): Symmetry, locality and hyperintensionality
+- 11:15 - 11:30 Coffee
+- 11:30 - 12:45 **Johannes Korbmacher** (Utrecht): On the algebra of exact truthmaking propositions<br></br>
+
+- 12:45: Lunch<br></br>
+
+- 14:00 - 15:15 **Simone Picenni** (Bristol): A model for self-applicable exact truthmaking
+- 15:15-15:30 Coffee
+- 15:30 - 16:45 **Michael Glanzberg** (Rutgers):
+Truth-makers in formal theories of truth
+
+
+
+### Contact
+
+For all further questions about the conference please contact [Simone Picenni](mailto:simone.picenni@bristol.ac.uk).
