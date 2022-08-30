@@ -48,9 +48,9 @@ Registration is now open until August 25th. To register, please send an email to
 
 - 10.45 - 11.15: Coffee.
 
-- 11.15 - 12.30: **Bryan Pickel** (University of Glasgow): title tbc.<br></br>
+- 11.15 - 12.30: **Bryan Pickel** (University of Glasgow): A Redundancy Theory of Truth.<br></br>
 - 12.30 - 13.30: Lunch.<br></br>
-- 13.30 - 14.45: **Paul Égré** (Institut Jean Nicod, Paris): title tbc.
+- 13.30 - 14.45: **Paul Égré** (Institut Jean Nicod, Paris): Truth is flat and bumpy -- On the gradability of "true".
 - 14.45 - 15.00: Break.
 - 15.00 - 16.15: **Caspar Wilson** (King's College London): Austin's Alethic Pluralism and a Pragmatic Function of ‘True’.
 - 16.15 - 16.45: Coffee.
@@ -64,7 +64,7 @@ Registration is now open until August 25th. To register, please send an email to
 - 12.30 - 13.30: Lunch.<br></br>
 - 13.30 - 14.45: **Will Gamester** (University of Leeds): Alethic Expressivism.
 - 14.45 - 15.15: Coffee.
-- 15.15 - 16.30: **Friederike Moltmann** (Centre National de la Recherche Scientifique): title tbc.
+- 15.15 - 16.30: **Friederike Moltmann** (Centre National de la Recherche Scientifique): Understanding the normativity of truth.
 <br></br>
 
 ### Abstracts:
@@ -76,7 +76,7 @@ With the so-called linguistic turn in philosophy, it has become standard to try 
 
 The classical redundancy theory of truth says that the predicate ’is true’ is descriptively empty. Sentences of the form ’that Annabel is happy is true’ express the same propositions as sentences of the form ’Annabel is happy’. The view is often dismissed as moribund, and is treated as a step on the way to more sophisticated forms of deflationism. In particular, it is thought that the view does not easily extend to generalizations such as ’something you said is true’ or to truth ascriptions involving singular terms such as ’Noether’s first theorem is true’.  Sometimes it is suggested that the redundancy theorist must go so far as to reject the view that ‘is true’ is a predicate at all.  I argue that these reservations are misplaced. I suggest that we construe the redundancy theory as the thesis that ‘is true’ is semantically vacuous. By following typical approaches to semantic vacuity from formal semantics, we can naturally extend the redundancy theory to generalizations and to truth ascriptions involving singular terms.  I show that even the most uncompromising version of the redundancy theory can meet the challenges traditionally posed to it.
 
-#### Paul Égré (Institut Jean-Nicod, Paris): Truth is flat and bumpy -- On the gradability of "true"
+#### Paul Égré (Institut Jean-Nicod, Paris): Truth is flat and bumpy -- On the gradability of "true".
 
 While the adjective "true" in English admits modification by "very" and by the comparative and superlative morphemes ("truer", "most true"), the view of truth as a gradable property is generally met with scepticism (see Frege 1919, and Haack 1980, criticizing fuzzy views by Zadeh 1975). Recently, some novel observations were put forth in Henderson (2021) and in Egré (2021) to reassess the gradability of "true". In this paper I propose to highlight some of those observations and to discuss further issues. Haack (1980) argued that "true" is neither a relative gradable adjective, nor an absolute gradable adjective. In the first part of the presentation I examine Haack's arguments. First I will review evidence in favor of "true" (in English) and "vrai" (in French) being absolute adjectives, but moreover I will show that "true" has the features of both partial and total absolute adjectives (in the sense of Rotstein and Winter 2004, viz. "flat" vs "bumpy"). These observations, however, are not enough to conclude that truth is fundamentally gradable. D. Feinmann (private communication) observes that various languages differ from English and French, for instance Spanish, which distinguishes "verdad" (non-gradable) and "cierto" (gradable). This suggests that "true" might be gradable only as a coerced adjective in English and in French, like "pregnant" (see Burnett 2017). Depending on the case, "truer" might mean "more clearly true" and express an epistemic property. I will argue, however, that this interpretation does not cover all cases of "truer". For generic sentences, or for singular sentences containing gradable predicates, "truer" can mean "more often true" or "closer to fully true". Both of those uses, I will argue, are not fundamentally epistemic, they tell us that truth comes in different extents.
 
