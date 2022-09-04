@@ -54,11 +54,11 @@ Registration is now open until August 25th. To register, please send an email to
 - 14.45 - 15.00: Break.
 - 15.00 - 16.15: **Caspar Wilson** (King's College London): Austin's Alethic Pluralism and a Pragmatic Function of ‘True’.
 - 16.15 - 16.45: Coffee.
-- 16.45 - 18.00: **Max Kölbel** (University of Vienna): title tbc.<br></br>
+- 16.45 - 18.00: **Max Kölbel** (University of Vienna): A Spoilsport's Account of Truth.<br></br>
 
 #### Day 2
 - 9.15: Coffee.<br></br>
-- 9.30 - 10.45: **Keith Simmons** (University of Connecticut): ‘True’: Paradox and Context.
+- 9.30 - 10.45:--**CANCELLED**--**Keith Simmons** (University of Connecticut): ‘True’: Paradox and Context.
 - 10.45 - 11.15: Coffee.
 - 11.15 - 12.30: **Ethan Landes** (University of Zürich): How Does “True” Modify Dual Character Concepts?<br></br>
 - 12.30 - 13.30: Lunch.<br></br>
@@ -83,6 +83,9 @@ While the adjective "true" in English admits modification by "very" and by the c
 #### Caspar Wilson (King's College London): Austin's Alethic Pluralism and a Pragmatic Function of ‘True’.
 In this paper, I compare J.L. Austin sustained discussion of the “highly exceptional” word ‘real’ in Sense and Sensibilia with various things he says about ‘truth’: “that ‘true’ is just such another extraordinary word is obvious.” Although there is no reason to think extraordinary words must all be so for similar reasons, from this comparison emerges a reading of Austin as a peculiar sort of alethic pluralist, one where, in calling something true, one can say any of indefinitely many things depending on the appropriate standards of the occasion. Whether or not Austin’s brand of alethic pluralism has the virtues that motivates other versions, it avoids Tappolet’s mixed inference challenge, and hence plausibly lacks one of their vices.
 Moreover, this reading identifies an additional function of ‘true’. Miscommunication can occur when speakers disagree over the appropriate standards an occasion calls for. A use of ‘true’ can either clarify whether that is the sort of fit between words and the world at play, or to attempt to impose more stringent standards.   
+
+#### Max Kölbel (Vienna): A Spoilsport's Account of Truths
+In this paper, I distinguish a number of different questions to which theories of truth can be an answer. I shall distinguish various empirical and a priori questions about meanings and concepts as well as normative questions about which meanings and concepts are worth having. I shall then develop and justify an overall conception of truth that attempts to give a coherent combination of answers to many of the questions previously distinguished. Thus, I will make proposals about to the meaning of “true” in ordinary English, about the concepts typically expressed by it and employed in our thought, about concepts of truth employed in semantics, and about concepts of truth worth having. I will also make some remarks about what one might say about the property or properties of truth. I call it a “spoilsport’s account” because by distinguishing carefully between the different questions surrounding truth, I am treating some apparent disagreements in debates surrounding truth as merely apparent.
 
 #### Keith Simmons (University of Connecticut): ‘True’: Paradox and Context.
 I argue for two claims about the predicate ‘true’: first, that ‘true’ is a context-sensitive predicate, and second, that ‘true’ applies almost everywhere except for certain singular points where its application breaks down. The claim about context-sensitivity is supported by an examination of our reasoning with liar sentences, sentences which say of themselves that they are not true. The ‘singularity’ claim accommodates the expressive power of natural language, and is inspired by a remark of Gödel’s, that the paradoxes are analogous to dividing by zero. These two claims are extended to the semantic terms ‘denotes’, ‘extension’, and ‘valid’, each of which, like ‘true’, is associated with paradox. My overall aim is an account of semantic paradox that endorses the substantiveness of our semantic notions, and respects Tarski’s intuition that natural languages are universal.  
