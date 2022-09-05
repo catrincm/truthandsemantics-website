@@ -6,7 +6,7 @@ date: 2022-09-05
 date_end: 2022-09-06
 all_day: true
 
-location: Bristol
+location: "[Goldney Hall](https://www.google.com/maps/place/Goldney+Hall/@51.453014,-2.614519,16z/data=!4m5!3m4!1s0x0:0xbbaff9ab55113c05!8m2!3d51.4530135!4d-2.6145187?hl=en)"
 organizer: "[Poppy Mankowitz](mailto:poppy.mankowitz@bristol.ac.uk)"
 
 summary: "The aim of the conference is to explore  the semantics and pragmatics of the word ‘true’ in natural language. Central topics of discussion will include whether or not ‘true’ is ambiguous, context sensitive, vague, gradable, presuppositional, or lacking content altogether. Other relevant topics will include what sort of property or concept ‘true’ expresses, connections between natural language ‘true’ and the semantic paradoxes, and syntactic properties of ‘true’."
