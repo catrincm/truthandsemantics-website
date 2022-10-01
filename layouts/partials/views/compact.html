@@ -16,6 +16,8 @@
   {{ $show_authors_only = true }}
 {{ else if eq $item.Type "people" }}
   {{ $show_authors_only = true }}
+{{ else if eq $item.Type "past-people" }}
+  {{ $show_authors_only = true }}
 {{ end }}
 
 {{ $has_attachments := partial "functions/has_attachments" $item }}

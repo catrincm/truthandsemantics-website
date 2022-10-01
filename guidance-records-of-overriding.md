@@ -14,4 +14,9 @@ This involves the
 
 To display list of people, i.e., research team. Not supported. I've used the compact list.
 
-Added "people" instruction in `layouts/partials/views/compact.html` to not display date. 
+Added "people" instruction in `layouts/partials/views/compact.html` to not display date.
+
+
+# Past People
+
+I just did the people thing also for a past-people folder. Hacky solution, but fine for now. 
