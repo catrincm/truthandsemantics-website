@@ -39,9 +39,9 @@ The conference is hosted by the ERC-Starting Grant ['Truth and Semantics' (TRUST
 
 - 11.00 - 11.15 Coffee.
 
-- 11.15 - 12.30: **Xinhe Wu** (University of Bristol): Vague Identity: An Uniform Approach.<br></br>
+- 11.15 - 12.30: **Xinhe Wu** (University of Bristol): Vague Identity: A Uniform Approach.<br></br>
 - 12.30 - 13.45: Lunch.<br></br>
-- 13.45 - 15.00: **Andrea Iacona** (University of Turin): Quantitative Supervaluation.
+- 13.45 - 15.00: **Andrea Iacona** (University of Turin): Quantitative Supervaluationism.
 - 15.00 - 15.15: Break.
 - 15.15 - 16.30: **Tedy Nenu** (University of Bristol): tba.
 - 16.30 - 16.45: Coffee.
@@ -64,11 +64,11 @@ The conference is hosted by the ERC-Starting Grant ['Truth and Semantics' (TRUST
 It is simply mathematically incorrect to think that classical logic (in the deductive sense) must be bivalent (i.e., 2-valued) semantically, for there are various many-element Boolean algebras such as the 4-, 8-, 16-, …, infinite-element Boolean algebra, and any of those Boolean algebras can be a model for classical logic. Thus, we can combine classical logic with Boolean many-valued semantics to solve various philosophical problems. As an instance of this general strategy, I will present the Boolean many-valued solution to the fission problem for personal identity. I will offer a many-valued Boolean model that makes the following statement true: Person A (who goes into surgery) is identical with one of B, C, D, … (who come out of the surgery with A’s memory), but it is indeterminate which one.
 
 
-#### Xinhe Wu (University of Bristol): Vague Identity: An Uniform Approach.
+#### Xinhe Wu (University of Bristol): Vague Identity: A Uniform Approach.
 
 There are numerous apparent examples of vague identity, i.e. examples where two objects appear to be neither determinately identical nor determinately distinct. Philosophers disagree on whether the source of vagueness in identity is semantic or ontic/metaphysical. In this talk, I explore the use of Boolean-valued models as a many-valued semantic framework for identity. I argue that this semantics works well with both a semantic and ontic conception of vague identity. I also discuss, in the context of Boolean-valued logic, responses to the Evans’ argument under the two conceptions.
 
-#### Andrea Iacona (University of Turin): Quantitative Supervaluation.
+#### Andrea Iacona (University of Turin): Quantitative Supervaluationism.
 
 So far the method of supervaluations has been mainly employed to provide an account of truth, understood as a non-gradable property. But it is also possible, and arguably at least as plausible, to define a gradable property in terms of the same method. In my talk I will presents a supervaluationist semantics that is quantitative rather than qualitative. As I will show, there are at least two distinct interpretations of the semantics --- one alethic, the other epistemic — which can coherently be applied to key issues such as vagueness and future contingents.
 
