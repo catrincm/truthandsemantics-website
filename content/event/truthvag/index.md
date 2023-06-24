@@ -43,7 +43,7 @@ The conference is hosted by the ERC-Starting Grant ['Truth and Semantics' (TRUST
 - 12.30 - 13.45: Lunch.<br></br>
 - 13.45 - 15.00: **Andrea Iacona** (University of Turin): Quantitative Supervaluationism.
 - 15.00 - 15.15: Break.
-- 15.15 - 16.30: **Tedy Nenu** (University of Bristol): tba.
+- 15.15 - 16.30: **Tedy Nenu** (University of Bristol): The Practical-Fuzzy View of Vagueness.
 - 16.30 - 16.45: Coffee.
 - 16.45 - 18.00: **Lavinia Picollo** (National University of Singapore): Indeterminacy and Quantification.<br></br>
 
@@ -71,6 +71,10 @@ There are numerous apparent examples of vague identity, i.e. examples where two 
 #### Andrea Iacona (University of Turin): Quantitative Supervaluationism.
 
 So far the method of supervaluations has been mainly employed to provide an account of truth, understood as a non-gradable property. But it is also possible, and arguably at least as plausible, to define a gradable property in terms of the same method. In my talk I will presents a supervaluationist semantics that is quantitative rather than qualitative. As I will show, there are at least two distinct interpretations of the semantics --- one alethic, the other epistemic — which can coherently be applied to key issues such as vagueness and future contingents.
+
+#### Tedy Nenu (University of Bristol): The Practical-Fuzzy View of Vagueness.
+
+The phenomenon of vagueness contaminates each and every proposal advanced by formal semanticists. My aims for this talk are threefold. First, I want to advance a modest hypothesis based on Kahneman’s (1973, 2011) dual-process theory of thought that sets out to explain the psychological appeal of the soritical premisses. Second, I want to present some shortcomings of classical approaches to vagueness in light of the special sciences. Both classical and non-classical approaches will turn out to be particularly vulnerable to Michael Tye’s (2021) recent vagueness-related paradox of phenomenality. Lastly, I want to make the case that, despite the usual philosophical objections, there are strong practical reasons for carrying out the formal semantics of natural languages in fuzzy frameworks.
 
 #### Lavinia Picollo (National University of Singapore): Indeterminacy and Quantification.
 
