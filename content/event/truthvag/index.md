@@ -50,7 +50,7 @@ The conference is hosted by the ERC-Starting Grant ['Truth and Semantics' (TRUST
 #### Day 2
 - 9.30 - 10.45: **Pablo Cobreros** (University of Navarra): Metainferences in Strong Kleene Logics.
 - 10.45 - 11.00: Coffee.
-- 11.00 - 12.15: **Johannes Stern** (University of Bristol): Strong Kleene Supervaluation: Restricted Quantification and Material Impication.<br></br>
+- 11.00 - 12.15: **Johannes Stern** (University of Bristol): Strong Kleene Supervaluation: Restricted Quantification and Material Implication.<br></br>
 - 12.15 - 13.30: Lunch.<br></br>
 - 13.30 - 14.45: **Miriam Bowen** (University of St.Andrews): Truth and Indeterminacy: how semantic status informs belief.
 - 14.45 - 15.00: Coffee.
