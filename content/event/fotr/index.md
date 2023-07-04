@@ -17,7 +17,7 @@ summary: "The workshop brings together researchers on formal theories of truth a
 ---
 
 
-The workshop is hosted by the ERC-Starting Grant ['Truth and Semantics' (TRUST 803684)](/) at the University of Bristol directed by Johannes Stern. It focuses on recent work on formal theories of truth and will take place directly after the [BLC Annual Meeting 2023](https://people.maths.bris.ac.uk/~mapdw/BLC%202023.htm) which will also take place at the University of Bristol.
+The workshop is hosted by the ERC-Starting Grant ['Truth and Semantics' (TRUST 803684)](/) at the University of Bristol directed by Johannes Stern. It focuses on recent work on formal theories of truth and will take place directly after the [BLC Annual Meeting 2023](https://people.maths.bris.ac.uk/~mapdw/BLC%202023.htm) which also takes place at the University of Bristol.
 
 ### Confirmed Speakers
 - Martin Fischer (MCMP, LMU Munich)
