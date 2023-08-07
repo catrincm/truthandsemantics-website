@@ -28,5 +28,8 @@ The workshop is hosted by the ERC-Starting Grant ['Truth and Semantics' (TRUST 8
 - Thomas Schindler (Amsterdam)
 <br></br>
 
+### Registration
+Participation in the workshop is free of charge, but if you wish to attend please register by sending an email with the relevant detail (name, affiliation) to [Johannes Stern](mailto:johannes.stern@bristol.ac.uk)..
+
 ### Contact
 For all further questions about the workshop please contact [Johannes Stern](mailto:johannes.stern@bristol.ac.uk).
