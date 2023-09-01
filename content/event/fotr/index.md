@@ -62,7 +62,7 @@ PKF.
 
 The talk is based on joint work with Luca Castaldo and Johannes Stern.
 
-####Kentaro Fujimoto (Bristol):
+#### Kentaro Fujimoto (Bristol):
 Liberal predicativism is a view about what second-order entities are, which I recently proposed originally as an interpretation of proper classes in set theory. This talk tries to give more philosophical details of the view particularly from the semantic point of view.
 
 #### Volker Halbach (Oxford): Logic and Truth
