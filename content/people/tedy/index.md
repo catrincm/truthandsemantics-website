@@ -13,4 +13,6 @@ links:
 
 external_link: "https://philpeople.org/profiles/theodor-nenu"
 
+featured: true
+
 ---

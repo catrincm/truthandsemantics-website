@@ -15,4 +15,6 @@ links:
 
 external_link: "https://johannesstern.github.io"
 
+featured: true
+
 ---

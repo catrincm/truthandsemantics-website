@@ -17,4 +17,7 @@ links:
     url: 'https://poppymankowitz.com/'
 
 external_link: "https://poppymankowitz.com/"
+
+featured: true
+
 ---

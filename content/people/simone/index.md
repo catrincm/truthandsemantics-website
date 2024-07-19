@@ -14,4 +14,6 @@ links:
 
 external_link: "https://philpeople.org/profiles/simone-picenni"
 
+featured: true
+
 ---

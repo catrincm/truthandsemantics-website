@@ -14,6 +14,7 @@ links:
   - name: Homepage
     url: 'https://www.xinhewu.com/'
 
+featured: true
 
 
 ---
