@@ -51,7 +51,7 @@ weight = 1  # Order that this section will appear.
 +++
 
 
-# Truth and Semantics
+# Truth and Semantics (2018-2023)
 
 <div style="font-size: 1.2rem;  margin-bottom: .5rem;">
 An ERC research project exploring a unified perspective on theories of truth and semantics.  

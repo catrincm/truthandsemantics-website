@@ -3,7 +3,7 @@ title: Simone Picenni
 
 date: 2020-01-03
 
-role: PhD student
+role: PhD student (now Postdoc, University of Amsterdam)
 
 summary: "I got a master's degree in Logic and Philosophy of Science from the University of Florence. While there, I have also spent a semester at the MCMP in  Munich. My focus is on formal semantics, semantic paradoxes, theories of truth. I am also interested in proof theory, lambda-calculus, combinatory logic and automatic theorem proving (HOL Light)."
 
