@@ -19,4 +19,6 @@ links:
 
 external_link: "https://www.thomasschindler.org/"
 
+featured: true
+
 ---
